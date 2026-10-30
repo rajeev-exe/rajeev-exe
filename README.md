@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://rajeevgandhi-portfolio.vercel.app/">
+<a href="https://rajeevgandhi-portfolio.vercel.app/" href="https://screenshot-to-web-128.lovable.app" >
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0057FF?style=for-the-badge&logoColor=white"/>
 </a>
 &nbsp;
